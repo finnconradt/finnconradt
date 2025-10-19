@@ -1,16 +1,11 @@
-## Hi there 👋
+# 👋 Hey, ich bin Finn!
+Nur ein ganz normaler Typ, der zu viel Zeit im Internet verbringt (;
 
-<!--
-**finnconradt/finnconradt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🪛 Discord
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="background-color: #2f3136; padding: 10px; border-radius: 10px; width: fit-content;">
+    <a href="https://discord.com/users/1314991090616766564">
+      <img src="https://lanyard.cnrad.dev/api/1314991090616766564" alt="Discord Presence">
+    </a>
+  </div>
+</div>
