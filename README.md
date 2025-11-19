@@ -12,3 +12,13 @@ Nur ein ganz normaler Typ, der zu viel Zeit im Internet verbringt (;
     </a>
   </div>
 </div>
+
+---
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xavoyx&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xavoyx&show_icons=true&theme=dark&hide_border=true)
+
+---
